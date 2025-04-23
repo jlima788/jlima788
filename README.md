@@ -3,7 +3,7 @@
 - Desenvolvedor Back End, especializado em PHP desde 2010, com framework Laravel desde 2018 e com robusto conhecimento em Ruby in Raisl desde 2021 e Java com Spring Boot desde 2021 através de projetos pessoais.
 Atuando profissionalmente com HTML/CSS/JS desde 2004, com PHP desde 2010, com Laravel desde 2018 e aprendendo Java com Spring Boot desde 2022, sempre buscando melhorar a performance e integrações de sites e aplicações. Tenho experiência em desenvolvimento de sites, blogs, sistemas e E-commerces como programador PHP utilizando o framework Laravel.
 
-Sou apaixonado por construir produtos de sucesso, ótimo jogador de equipe, experiente em otimizar processos para melhorar a experiência do cliente e solucionar problemas de projetos de forma eficiente.
+- Sou apaixonado por construir produtos de sucesso, ótimo jogador de equipe, experiente em otimizar processos para melhorar a experiência do cliente e solucionar problemas de projetos de forma eficiente.
 - Pronouns: ele/dele
 
 <div>
